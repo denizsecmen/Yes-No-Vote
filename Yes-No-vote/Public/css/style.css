@@ -1,0 +1,54 @@
+body
+{
+background-image: url("/Public/images/BG.jpg");
+background-size: cover;
+}
+#nvbr
+{
+    position: relative;
+    margin-top: 0px;
+    opacity: 0.8;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+#screen
+{
+    position: relative;
+    margin-top: 5px;
+    height: 98%;
+    width: 100%;
+}
+#main
+{
+    padding: 10px;
+    height: auto;
+    width: max-content;
+    height: max-content;
+    max-width: 40%;
+    max-height: 40%;
+    opacity: 1;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-left: 30%;
+}
+#Result
+{
+    padding: 10px;
+    height: auto;
+    width: max-content;
+    height: max-content;
+    max-width: 40%;
+    max-height: 40%;
+    opacity: 1;
+    background-color: rgba(255, 255, 255, 0.55);
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 30%;
+}
+#graph
+{
+    height: 370px;
+    width: 370px;
+    border: 0.2px solid lightgray;
+}
