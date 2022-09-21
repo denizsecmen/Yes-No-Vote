@@ -4,7 +4,7 @@ Project for learning and training Node.js skills.
 ## Ablities 
 - Can select Yes and No button
 - Can see the total selected yes and no result at pie-chart.
-## Tools and Languages used in proje
+## Tools and Languages used in project
 - Database
   - MYSQL
 - Backend
